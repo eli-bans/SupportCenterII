@@ -8,7 +8,7 @@
         <p class="text-[#FFFFFF] font-lato font-normal text-[18px] leading-[20px] tracking-[-0.01em] mb-8" style="width: 690px; height: 40px; top: 298px; left: 374px;">
           Stuck on a coding problem? We get it. Support Center is your community to unravel CS challenges and level up your coding skills.
         </p>
-        <a href="#" class="bg-[#B83838] text-white font-lato font-bold text-[16px] leading-[18.76px] px-6 py-3 rounded-tr-lg" style="width: 128.56px; height: 43px;">
+        <a href="#" class="bg-[#B83838] text-white font-lato font-bold text-[16px] leading-[18.76px] px-6 py-3 rounded-tr-lg" style="width: 150px; height: 43px;">
           Learn more
         </a>
       </div>
