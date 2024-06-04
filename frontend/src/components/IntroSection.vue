@@ -1,6 +1,6 @@
 <template>
     <section class="relative w-[1440px] h-[676px] bg-gradient-to-b from-transparent to-black z-0">
-      <img src="../assets/IMG_1781.jpeg" alt="Background Image" class="absolute inset-0 w-full h-full object-cover" />
+      <img src="../assets/supportcenter_hero.png" alt="Background Image" class="absolute inset-0 w-full h-full object-cover" /> // add opacity-50 to the class
       <div class="absolute inset-0 flex flex-col items-center justify-center text-center z-10 px-4">
         <h1 class="text-[#FFFFFF] font-lato font-medium text-[59px] leading-[20px] tracking-[-0.01em] mb-4" style="width: 739px; height: 76px; top: 209px; left: 350px;">
           We solve problems, together

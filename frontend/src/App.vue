@@ -3,6 +3,7 @@
     <Navbar />
     <IntroSection />
     <OfferSection />
+    <TutorSection />
   </div>
 </template>
 
@@ -11,6 +12,7 @@ import { defineComponent } from 'vue';
 import Navbar from './components/Navbar.vue';
 import IntroSection from './components/IntroSection.vue';
 import OfferSection from './components/OfferSection.vue';
+import TutorSection from './components/TutorSection.vue';
 
 export default defineComponent({
   name: 'App',
@@ -18,6 +20,8 @@ export default defineComponent({
     Navbar,
     IntroSection,
     OfferSection,
+    TutorSection,
+    
   },
 });
 </script>
